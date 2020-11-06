@@ -102,6 +102,7 @@ $this->params['breadcrumbs'][] = 'Test #' . $model->id;
             [
                 'class' => ActionColumn::class,
                 'template' => '{setSuccess} {reset}',
+                'visible' => $model->status === Test::STATUS_ACTIVE,
                 'buttons' => [
                     'setSuccess' => function ($url, $model, $key) {
                         return Html::a('', ['/test/set-success', 'id' => $model->id], [
@@ -131,12 +132,15 @@ $this->params['breadcrumbs'][] = 'Test #' . $model->id;
         ];
     }
     ?>
-    <div class="row">
-        <?= Html::a('Complete test', ['/test/complete', 'id' => $model->id], $options) ?>
-        <?= Html::a('Delete test', ['/test/delete', 'id' => $model->id], [
-            'class' => 'btn btn-danger',
-            'data-confirm' => "Are you sure you want to delete this item?"
-        ]) ?>
-    </div>
+    <?php if ($model->status === Test::STATUS_ACTIVE): ?>
+        <div class="row">
+
+            <?= Html::a('Complete test', ['/test/complete', 'id' => $model->id], $options) ?>
+            <?= Html::a('Delete test', ['/test/delete', 'id' => $model->id], [
+                'class' => 'btn btn-danger',
+                'data-confirm' => "Are you sure you want to delete this item?"
+            ]) ?>
+        </div>
+    <?php endif; ?>
     <?php Pjax::end() ?>
 </div>

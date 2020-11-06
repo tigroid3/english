@@ -17,6 +17,8 @@ use yii\behaviors\TimestampBehavior;
  */
 class Test extends \yii\db\ActiveRecord
 {
+    public const LIMIT_ITEMS_IN_TEST = 20;
+
     public const STATUS_ACTIVE = 1;
     public const STATUS_COMPLETED = 2;
 

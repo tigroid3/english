@@ -7,6 +7,8 @@ use common\models\TestItem;
 use common\models\Vocabulary;
 use yii\data\ActiveDataProvider;
 use yii\db\Exception;
+use yii\db\Expression;
+use yii\helpers\ArrayHelper;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 
@@ -32,12 +34,32 @@ class TestController extends Controller
                 ]
             ],
             'pagination' => [
-                'defaultPageSize' => 100,
+                'defaultPageSize' => 30,
             ]
         ]);
 
+        $queryAnswers = TestItem::find()
+            ->select(['test_id', 'status', 'cnt' => new Expression('count(*)')])
+            ->where(['in', 'test_id', ArrayHelper::getColumn($dataProvider->getModels(), 'id')])
+            ->groupBy(['test_id', 'status'])
+            ->asArray()
+            ->all();
+
+        $testAnswers = [];
+        array_walk($queryAnswers, function ($v) use (&$testAnswers) {
+            if (!isset($testAnswers[$v['test_id']])) {
+                $testAnswers[$v['test_id']] = [
+                    $v['status'] => $v['cnt']
+                ];
+            } else {
+                $testAnswers[$v['test_id']][$v['status']] = $v['cnt'];
+            }
+        });
+
+
         return $this->render('index', [
             'dataProvider' => $dataProvider,
+            'testAnswers' => $testAnswers,
         ]);
     }
 
@@ -93,7 +115,7 @@ class TestController extends Controller
                 throw new Exception('Test not saved', $test->getErrors());
             }
 
-            $limit = 20;
+            $limit = Test::LIMIT_ITEMS_IN_TEST;
             $phrases = Vocabulary::find()
                 ->select('id')->orderBy('random()')
                 ->limit($limit)
