@@ -3,6 +3,7 @@
 namespace frontend\controllers;
 
 use common\models\search\VocabularySearch;
+use common\models\TestItem;
 use common\models\Vocabulary;
 use Yii;
 use yii\web\Controller;
@@ -63,7 +64,10 @@ class VocabularyController extends Controller
 
     public function actionDelete($id)
     {
-        $this->findModel($id)->delete();
+        $vocabularyItem = $this->findModel($id);
+
+        TestItem::deleteAll(['phrase_id' => $vocabularyItem->id]);
+        $vocabularyItem->delete();
 
         return $this->redirect(['index']);
     }

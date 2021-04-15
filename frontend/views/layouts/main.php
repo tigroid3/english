@@ -1,6 +1,7 @@
 <?php
 
 /* @var $this \yii\web\View */
+
 /* @var $content string */
 
 use common\widgets\Alert;
@@ -36,6 +37,7 @@ AppAsset::register($this);
         ],
     ]);
     $menuItems = [
+        ['label' => 'Verbs', 'url' => ['/verbs/index']],
         ['label' => 'Last tests', 'url' => ['/test/index']],
         ['label' => 'Vocabulary', 'url' => ['/vocabulary/index']],
         ['label' => 'Start test', 'url' => ['/test/run']],

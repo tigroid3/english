@@ -1,0 +1,1016 @@
+<table class="table table_bordered table_center table_hovered table_rwd" data-adcom="" data-print="irregular" data-print-class="table table_lined">
+	<thead>
+		<tr>
+			<th>
+				Infinitive</th>
+			<th>
+				Past Simple</th>
+			<th>
+				Past Participle</th>
+			<th>
+				Перевод</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="1">be</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="2">was</span>, <span class="eng sound-word" data-word="3">were</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="4">been</span></td>
+			<td data-th="Перевод">
+				<span class="rus">быть, являться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="5">beat</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="6">beat</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="7">beaten</span></td>
+			<td data-th="Перевод">
+				<span class="rus">бить, колотить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="8">become</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="9">became</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="10">become</span></td>
+			<td data-th="Перевод">
+				<span class="rus">становиться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="11">begin</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="12">began</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="13">begun</span></td>
+			<td data-th="Перевод">
+				<span class="rus">начинать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="14">bend</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="15">bent</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="16">bent</span></td>
+			<td data-th="Перевод">
+				<span class="rus">гнуть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="17">bet</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="18">bet</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="19">bet</span></td>
+			<td data-th="Перевод">
+				<span class="rus">держать пари</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="20">bite</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="21">bit</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="22">bitten</span></td>
+			<td data-th="Перевод">
+				<span class="rus">кусать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="23">blow</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="24">blew</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="25">blown</span></td>
+			<td data-th="Перевод">
+				<span class="rus">дуть, выдыхать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="26">break</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="27">broke</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="28">broken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ломать, разбивать, разрушать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="29">bring</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="30">brought</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="31">brought</span></td>
+			<td data-th="Перевод">
+				<span class="rus">приносить, привозить, доставлять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="32">build</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="33">built</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="34">built</span></td>
+			<td data-th="Перевод">
+				<span class="rus">строить, сооружать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="35">buy</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="36">bought</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="37">bought</span></td>
+			<td data-th="Перевод">
+				<span class="rus">покупать, приобретать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="38">catch</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="39">caught</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="40">caught</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ловить, поймать, схватить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="41">choose</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="42">chose</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="43">chosen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">выбирать, избирать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="44">come</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="45">came</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="46">come</span></td>
+			<td data-th="Перевод">
+				<span class="rus">приходить, подходить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="47">cost</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="48">cost</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="49">cost</span></td>
+			<td data-th="Перевод">
+				<span class="rus">стоить, обходиться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="50">cut</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="51">cut</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="52">cut</span></td>
+			<td data-th="Перевод">
+				<span class="rus">резать, разрезать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="53">deal</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="54">dealt</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="55">dealt</span></td>
+			<td data-th="Перевод">
+				<span class="rus">иметь дело, распределять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="56">dig</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="57">dug</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="58">dug</span></td>
+			<td data-th="Перевод">
+				<span class="rus">копать, рыть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="59">do</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="60">did</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="61">done</span></td>
+			<td data-th="Перевод">
+				<span class="rus">делать, выполнять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="62">draw</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="63">drew</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="64">drawn</span></td>
+			<td data-th="Перевод">
+				<span class="rus">рисовать, чертить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="65">drink</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="66">drank</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="67">drunk</span></td>
+			<td data-th="Перевод">
+				<span class="rus">пить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="68">drive</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="69">drove</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="70">driven</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ездить, подвозить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="71">eat</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="72">ate</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="73">eaten</span></td>
+			<td data-th="Перевод">
+				<span class="rus">есть, поглощать, поедать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="74">fall</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="75">fell</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="76">fallen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">падать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="77">feed</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="78">fed</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="79">fed</span></td>
+			<td data-th="Перевод">
+				<span class="rus">кормить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="80">feel</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="81">felt</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="82">felt</span></td>
+			<td data-th="Перевод">
+				<span class="rus">чувствовать, ощущать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="83">fight</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="84">fought</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="85">fought</span></td>
+			<td data-th="Перевод">
+				<span class="rus">драться, сражаться, воевать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="86">find</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="87">found</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="88">found</span></td>
+			<td data-th="Перевод">
+				<span class="rus">находить, обнаруживать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="89">fly</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="90">flew</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="91">flown</span></td>
+			<td data-th="Перевод">
+				<span class="rus">летать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="92">forget</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="93">forgot</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="94">forgotten</span></td>
+			<td data-th="Перевод">
+				<span class="rus">забывать о (чём-либо)</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="95">forgive</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="96">forgave</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="97">forgiven</span></td>
+			<td data-th="Перевод">
+				<span class="rus">прощать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="98">freeze</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="99">froze</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="100">frozen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">замерзать, замирать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="101">get</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="102">got</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="103">got</span></td>
+			<td data-th="Перевод">
+				<span class="rus">получать, добираться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="104">give</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="105">gave</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="106">given</span></td>
+			<td data-th="Перевод">
+				<span class="rus">дать, подать, дарить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="107">go</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="108">went</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="109">gone</span></td>
+			<td data-th="Перевод">
+				<span class="rus">идти, двигаться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="110">grow</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="111">grew</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="112">grown</span></td>
+			<td data-th="Перевод">
+				<span class="rus">расти, вырастать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="113">hang</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="114">hung</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="115">hung</span></td>
+			<td data-th="Перевод">
+				<span class="rus">вешать, развешивать, висеть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="116">have</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="117">had</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="118">had</span></td>
+			<td data-th="Перевод">
+				<span class="rus">иметь, обладать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="119">hear</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="120">heard</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="121">heard</span></td>
+			<td data-th="Перевод">
+				<span class="rus">слышать, услышать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="122">hide</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="123">hid</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="124">hidden</span></td>
+			<td data-th="Перевод">
+				<span class="rus">прятать, скрывать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="125">hit</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="126">hit</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="127">hit</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ударять, поражать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="128">hold</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="129">held</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="130">held</span></td>
+			<td data-th="Перевод">
+				<span class="rus">держать, удерживать, задерживать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="131">hurt</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="132">hurt</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="133">hurt</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ранить, причинять боль, ушибить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="134">keep</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="135">kept</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="136">kept</span></td>
+			<td data-th="Перевод">
+				<span class="rus">хранить, сохранять, поддерживать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="137">know</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="138">knew</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="139">known</span></td>
+			<td data-th="Перевод">
+				<span class="rus">знать, иметь представление</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="140">lay</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="141">laid</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="142">laid</span></td>
+			<td data-th="Перевод">
+				<span class="rus">класть, положить, покрывать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="143">lead</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="144">led</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="145">led</span></td>
+			<td data-th="Перевод">
+				<span class="rus">вести за собой, сопровождать, руководить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="146">leave</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="147">left</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="148">left</span></td>
+			<td data-th="Перевод">
+				<span class="rus">покидать, уходить, уезжать, оставлять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="149">lend</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="150">lent</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="151">lent</span></td>
+			<td data-th="Перевод">
+				<span class="rus">одалживать, давать взаймы (в долг)</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="152">let</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="153">let</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="154">let</span></td>
+			<td data-th="Перевод">
+				<span class="rus">позволять, разрешать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="155">lie</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="156">lay</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="157">lain</span></td>
+			<td data-th="Перевод">
+				<span class="rus">лежать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="158">light</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="159">lit</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="160">lit</span></td>
+			<td data-th="Перевод">
+				<span class="rus">зажигать, светиться, освещать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="161">lose</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="162">lost</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="163">lost</span></td>
+			<td data-th="Перевод">
+				<span class="rus">терять, лишаться, утрачивать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="164">make</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="165">made</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="166">made</span></td>
+			<td data-th="Перевод">
+				<span class="rus">делать, создавать, изготавливать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="167">mean</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="168">meant</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="169">meant</span></td>
+			<td data-th="Перевод">
+				<span class="rus">значить, иметь в виду, подразумевать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="170">meet</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="171">met</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="172">met</span></td>
+			<td data-th="Перевод">
+				<span class="rus">встречать, знакомиться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="173">pay</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="174">paid</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="175">paid</span></td>
+			<td data-th="Перевод">
+				<span class="rus">платить, оплачивать, рассчитываться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="176">put</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="177">put</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="178">put</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ставить, помещать, класть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="179">read</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="180">read</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="181">read</span></td>
+			<td data-th="Перевод">
+				<span class="rus">читать, прочитать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="182">ride</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="183">rode</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="184">ridden</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ехать верхом, кататься</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="185">ring</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="186">rang</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="187">rung</span></td>
+			<td data-th="Перевод">
+				<span class="rus">звенеть, звонить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="188">rise</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="189">rose</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="190">risen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">восходить, вставать, подниматься</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="191">run</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="192">ran</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="193">run</span></td>
+			<td data-th="Перевод">
+				<span class="rus">бежать, бегать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="194">say</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="195">said</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="196">said</span></td>
+			<td data-th="Перевод">
+				<span class="rus">говорить, сказать, произносить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="197">see</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="198">saw</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="199">seen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">видеть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="200">seek</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="201">sought</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="202">sought</span></td>
+			<td data-th="Перевод">
+				<span class="rus">искать, разыскивать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="203">sell</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="204">sold</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="205">sold</span></td>
+			<td data-th="Перевод">
+				<span class="rus">продавать, торговать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="206">send</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="207">sent</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="208">sent</span></td>
+			<td data-th="Перевод">
+				<span class="rus">посылать, отправлять, отсылать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="209">set</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="210">set</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="211">set</span></td>
+			<td data-th="Перевод">
+				<span class="rus">устанавливать, задавать, назначать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="212">shake</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="213">shook</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="214">shaken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">трясти, встряхивать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="215">shine</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="216">shone</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="217">shone</span></td>
+			<td data-th="Перевод">
+				<span class="rus">светить, сиять, озарять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="218">shoot</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="219">shot</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="220">shot</span></td>
+			<td data-th="Перевод">
+				<span class="rus">стрелять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="221">show</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="222">showed</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="223">shown</span>, <span class="eng sound-word" data-word="224">showed</span></td>
+			<td data-th="Перевод">
+				<span class="rus">показывать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="225">shut</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="226">shut</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="227">shut</span></td>
+			<td data-th="Перевод">
+				<span class="rus">закрывать, запирать, затворять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="228">sing</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="229">sang</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="230">sung</span></td>
+			<td data-th="Перевод">
+				<span class="rus">петь, напевать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="231">sink</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="232">sank</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="233">sunk</span></td>
+			<td data-th="Перевод">
+				<span class="rus">тонуть, погружаться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="234">sit</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="235">sat</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="236">sat</span></td>
+			<td data-th="Перевод">
+				<span class="rus">сидеть, садиться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="237">sleep</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="238">slept</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="239">slept</span></td>
+			<td data-th="Перевод">
+				<span class="rus">спать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="240">speak</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="241">spoke</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="242">spoken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">говорить, разговаривать, высказываться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="243">spend</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="244">spent</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="245">spent</span></td>
+			<td data-th="Перевод">
+				<span class="rus">тратить, расходовать, проводить (время)</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="246">stand</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="247">stood</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="248">stood</span></td>
+			<td data-th="Перевод">
+				<span class="rus">стоять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="249">steal</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="250">stole</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="251">stolen</span></td>
+			<td data-th="Перевод">
+				<span class="rus">воровать, красть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="252">stick</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="253">stuck</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="254">stuck</span></td>
+			<td data-th="Перевод">
+				<span class="rus">втыкать, приклеивать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="255">strike</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="256">struck</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="257">struck</span>, <span class="eng sound-word" data-word="258">stricken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">ударять, бить, поражать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="259">swear</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="260">swore</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="261">sworn</span></td>
+			<td data-th="Перевод">
+				<span class="rus">клясться, присягать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="262">sweep</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="263">swept</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="264">swept</span></td>
+			<td data-th="Перевод">
+				<span class="rus">мести, подметать, смахивать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="265">swim</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="266">swam</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="267">swum</span></td>
+			<td data-th="Перевод">
+				<span class="rus">плавать, плыть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="268">swing</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="269">swung</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="270">swung</span></td>
+			<td data-th="Перевод">
+				<span class="rus">качаться, вертеться</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="271">take</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="272">took</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="273">taken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">брать, хватать, взять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="274">teach</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="275">taught</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="276">taught</span></td>
+			<td data-th="Перевод">
+				<span class="rus">учить, обучать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="277">tear</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="278">tore</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="279">torn</span></td>
+			<td data-th="Перевод">
+				<span class="rus">рвать, отрывать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="280">tell</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="281">told</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="282">told</span></td>
+			<td data-th="Перевод">
+				<span class="rus">рассказывать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="283">think</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="284">thought</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="285">thought</span></td>
+			<td data-th="Перевод">
+				<span class="rus">думать, мыслить, размышлять</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="286">throw</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="287">threw</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="288">thrown</span></td>
+			<td data-th="Перевод">
+				<span class="rus">бросать, кидать, метать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="289">understand</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="290">understood</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="291">understood</span></td>
+			<td data-th="Перевод">
+				<span class="rus">понимать, постигать</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="292">wake</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="293">woke</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="294">woken</span></td>
+			<td data-th="Перевод">
+				<span class="rus">просыпаться, будить</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="295">wear</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="296">wore</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="297">worn</span></td>
+			<td data-th="Перевод">
+				<span class="rus">носить (одежду)</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="298">win</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="299">won</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="300">won</span></td>
+			<td data-th="Перевод">
+				<span class="rus">победить, выиграть</span></td>
+		</tr>
+		<tr>
+			<td data-th="Infinitive">
+				<span class="eng sound-word" data-word="301">write</span></td>
+			<td data-th="Past Simple">
+				<span class="eng sound-word" data-word="302">wrote</span></td>
+			<td data-th="Past Participle">
+				<span class="eng sound-word" data-word="303">written</span></td>
+			<td data-th="Перевод">
+				<span class="rus">писать, записывать</span></td>
+		</tr>
+	</tbody>
+</table>

@@ -101,9 +101,9 @@ a.desc:after {
     border: none;
 }
 
-@media(max-width:767px) {
+@media (max-width: 767px) {
     .nav li > form > button.logout {
-        display:block;
+        display: block;
         text-align: left;
         width: 100%;
         padding: 10px 15px;
@@ -119,3 +119,28 @@ a.desc:after {
     outline: none;
 }
 
+.icon-info {
+    position: absolute;
+    right: 4px;
+    top: 9px;
+}
+
+td {
+    position: relative;
+}
+
+table.verbs-table tr td {
+    text-align: center;
+}
+
+input.verb-input {
+    outline: none;
+}
+
+.border-success {
+    border-color: #3e8f3e;
+}
+
+.border-danger {
+    border-color: #b92c28;
+}

@@ -45,7 +45,7 @@ class VocabularySearch extends Vocabulary
         $dataProvider = new ActiveDataProvider([
             'query' => $query,
             'pagination' => [
-                'defaultPageSize' => 50
+                'pageSize' => 200,
             ],
             'sort' => [
                 'defaultOrder' => [

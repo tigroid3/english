@@ -2,6 +2,8 @@
 
 namespace common\models;
 
+use yii\behaviors\TimestampBehavior;
+
 /**
  * This is the model class for table "vocabulary".
  *
@@ -21,6 +23,13 @@ class Vocabulary extends \yii\db\ActiveRecord
         return 'vocabulary';
     }
 
+    public function behaviors()
+    {
+        return [
+            TimestampBehavior::class,
+        ];
+    }
+
     /**
      * {@inheritdoc}
      */
@@ -28,6 +37,8 @@ class Vocabulary extends \yii\db\ActiveRecord
     {
         return [
             [['word', 'translate'], 'required'],
+            [['word', 'translate'], 'filter', 'filter' => 'strtolower'],
+            [['word', 'translate'], 'trim'],
             [['word'], 'unique', 'targetAttribute' => ['word', 'translate']],
             [['created_at', 'updated_at'], 'default', 'value' => null],
             [['created_at', 'updated_at'], 'integer'],

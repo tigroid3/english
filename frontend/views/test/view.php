@@ -2,6 +2,7 @@
 
 use common\models\Test;
 use common\models\TestItem;
+use frontend\assets\TestAsset;
 use yii\data\ActiveDataProvider;
 use yii\grid\ActionColumn;
 use yii\grid\GridView;
@@ -12,6 +13,8 @@ use yii\widgets\Pjax;
 /* @var $this yii\web\View */
 /** @var Test $model */
 /** @var ActiveDataProvider $dataProvider */
+
+TestAsset::register($this);
 
 $this->title = 'Last tests';
 $this->params['breadcrumbs'][] = ['url' => Url::toRoute('/test/index'), 'label' => 'List tests'];
@@ -134,7 +137,6 @@ $this->params['breadcrumbs'][] = 'Test #' . $model->id;
     ?>
     <?php if ($model->status === Test::STATUS_ACTIVE): ?>
         <div class="row">
-
             <?= Html::a('Complete test', ['/test/complete', 'id' => $model->id], $options) ?>
             <?= Html::a('Delete test', ['/test/delete', 'id' => $model->id], [
                 'class' => 'btn btn-danger',

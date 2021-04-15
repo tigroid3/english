@@ -151,12 +151,14 @@ class TestController extends Controller
 
         $status = TestItem::STATUS_WRONG;
 
-        if ($testItem->type === TestItem::TYPE_PHRASE && $phrase === $testItem->phrase->translate) {
-            $status = TestItem::STATUS_RIGHT;
-        }
-
-        if ($testItem->type === TestItem::TYPE_TRANSLATE && $phrase === $testItem->phrase->word) {
-            $status = TestItem::STATUS_RIGHT;
+        if ($testItem->type === TestItem::TYPE_PHRASE) {
+            if (trim(strtolower($phrase)) === trim(strtolower($testItem->phrase->translate))) {
+                $status = TestItem::STATUS_RIGHT;
+            }
+        } elseif ($testItem->type === TestItem::TYPE_TRANSLATE) {
+            if (trim(strtolower($phrase)) === trim(strtolower($testItem->phrase->word))) {
+                $status = TestItem::STATUS_RIGHT;
+            }
         }
 
         $testItem->status = $status;
@@ -167,7 +169,7 @@ class TestController extends Controller
             $error = current($testItem->getErrors())[0];
         }
 
-        $this->checkCompleteTest($testItem->test_id);
+//        $this->checkCompleteTest($testItem->test_id);
 
         return $this->asJson([
             'error' => $error,
@@ -198,7 +200,7 @@ class TestController extends Controller
         $testItem->answer = '';
         $testItem->save(false);
 
-        $this->checkCompleteTest($testItem->test_id);
+//        $this->checkCompleteTest($testItem->test_id);
 
         return 1;
     }
@@ -220,6 +222,9 @@ class TestController extends Controller
         if ($existsNotAnswered) {
             throw new NotFoundHttpException('Exists not answered test items');
         }
+
+        $test->status = Test::STATUS_COMPLETED;
+        $test->save(true, ['status']);
 
         return $this->redirect('/test/index');
     }

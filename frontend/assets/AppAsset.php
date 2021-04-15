@@ -3,6 +3,8 @@
 namespace frontend\assets;
 
 use yii\web\AssetBundle;
+use yii\web\JqueryAsset;
+use yii\web\View;
 
 /**
  * Main frontend application asset bundle.
@@ -15,10 +17,14 @@ class AppAsset extends AssetBundle
         'css/site.css',
     ];
     public $js = [
-        'js/site.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
+        JqueryAsset::class,
+    ];
+
+    public $jsOptions = [
+        View::POS_HEAD
     ];
 }

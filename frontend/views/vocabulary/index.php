@@ -1,5 +1,6 @@
 <?php
 
+use common\models\Vocabulary;
 use yii\grid\GridView;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
@@ -8,6 +9,7 @@ use yii\widgets\Pjax;
 /* @var $this yii\web\View */
 /* @var $searchModel common\models\search\VocabularySearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
+/* @var Vocabulary $model */
 
 $this->title = 'Vocabularies';
 $this->params['breadcrumbs'][] = $this->title;
@@ -42,6 +44,10 @@ $this->params['breadcrumbs'][] = $this->title;
         'columns' => [
             'word',
             'translate',
+            [
+                'attribute' => 'created_at',
+                'format' => ['date', 'php:d-m-Y H:i']
+            ],
             [
                 'class' => 'yii\grid\ActionColumn',
                 'template' => '{delete}'
