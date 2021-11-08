@@ -129,6 +129,10 @@ td {
     position: relative;
 }
 
+table {
+    background: #feffaa;
+}
+
 table.verbs-table tr td {
     text-align: center;
 }
